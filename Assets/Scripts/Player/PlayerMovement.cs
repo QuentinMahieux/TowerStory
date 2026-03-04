@@ -35,6 +35,4 @@ public class PlayerMovement : MonoBehaviour
             transformWorld.Rotate(-Vector3.up, HorizontalSpeed * Time.deltaTime);
         }
     }
-    
-    
 }
